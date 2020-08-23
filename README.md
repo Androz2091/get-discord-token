@@ -2,7 +2,7 @@
 
 3 ways to get your Discord token in 2020 from browser, bypassing the new security measures. Keep in mind that someone with your token can control your account.
 
-The better way is the **Webpack JSON way** but if Discord changes it, it will be broken. The **Man in the middle way** will work for ever, because it uses basic XMLHttpRequest features.
+The best way is the **Webpack JSON way** but if Discord changes it, it will be broken. The **Man in the middle way** will work for ever, because it uses basic XMLHttpRequest features.
 
 ## How-to
 ### 1. Log into [Discordapp](https://discordapp.com/activity) in browser
